@@ -8,5 +8,5 @@ pgzero==1.2
 pygame==1.9.4
 pyserial==3.4
 requests==2.20.0
-urllib3==1.24
+urllib3==1.26.5
 wincertstore==0.2
