@@ -2,7 +2,7 @@ adafruit-io==2.0.17
 certifi==2018.10.15
 chardet==3.0.4
 idna==2.7
-numpy==1.15.3
+numpy==1.22.0
 paho-mqtt==1.4.0
 pgzero==1.2
 pygame==1.9.4
